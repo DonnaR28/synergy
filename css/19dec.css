@@ -1,0 +1,10 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+    color: dodgerblue;
+    text-align: center;
+    text-shadow: 2px 2px 5px goldenrod;
+}
+ul{
+    list-style-type: none;
+}
